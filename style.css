@@ -21,7 +21,7 @@
     margin-right: auto;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
   }
   
   .header_logo p {
@@ -102,7 +102,7 @@
 
     .two_forms {
 display: flex;
-margin-bottom: 100px;
+margin-bottom: 30px;
 
     }
 
@@ -123,7 +123,7 @@ border: 2px solid #00897b;
 
 
     .search_line{
-        margin-bottom: 100px;
+        margin-bottom: 30px;
     }
 
     .image img{
@@ -131,7 +131,7 @@ border: 2px solid #00897b;
         justify-content: center;
         width:100%;
       
-        margin-bottom: 30px;
+        margin-bottom: 15px;
         
     }
 
@@ -188,7 +188,7 @@ border: 2px solid #00897b;
               display: flex;
               width: 40%;
               justify-content: flex-end;
-              margin-bottom: 100px;
+              margin-bottom: 30px;
 
           }
 
@@ -199,7 +199,7 @@ border: 2px solid #00897b;
           .main_text {
             border: 3px solid #00897b;
             border-radius: 10px;
-            margin-bottom: 100px;
+            margin-bottom: 30px;
           }
 
           .main_text p{
@@ -228,7 +228,7 @@ border: 2px solid #00897b;
           }
 
           .first_line {
-              margin-bottom: 40px;
+              margin-bottom: 15px;
           }
 .line_first, .line_second{
           
